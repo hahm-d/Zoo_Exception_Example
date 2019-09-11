@@ -8,7 +8,7 @@ import java.util.List;
 //https://courses.edx.org/courses/course-v1:UBCx+SoftConst2x+3T2017/course/
 
 
-public class Main {
+public class Zoo {
 
     public static void main(String[] args) {
         //Create a new array for list of animals
